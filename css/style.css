@@ -1,0 +1,74 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+/* navbar */
+.navedit{
+    background-color: #ecececec !important;
+}
+.navedit ul li{
+    font-size: 12px;
+    padding: 0 15px;
+}
+
+
+
+/* Welcome */
+.welcomeh1{
+    font-size: 70px;
+    font-weight: 700;
+    color: rgb(15, 15, 73);
+    
+}
+.snapwelcome{
+    color: #f57224;
+}
+/* search */
+.searchbar{
+    background-color: #f5f5f5;
+    border: none;
+    padding: 13px 19px;
+    outline: none;
+    width: 40%;
+    margin-left: 20px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.custom-search-button{
+    border: none;
+    background-color: #f57224;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: white;
+    padding: 0 10px;
+}
+
+
+
+/* top banner */
+
+.top-banner{
+    background-color: #f7f7f7 ;
+}
+.flash-sale-container{
+    background-color: #f7f7f7 ;
+    
+}
+.topBannerContainer{
+    border-radius: 50px;
+}
+
+.topBannerContainer:hover{
+    border-radius: 50px;
+    box-shadow: 0px 0px 10px #f5712434;
+}
+
+
+/*  flash sale */
+
+.flash-img{
+    height: 200px;
+}
+]
